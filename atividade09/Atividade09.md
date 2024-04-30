@@ -1,0 +1,7 @@
+# Texto sobre "Como melhorar o gerenciamento de código fonte?"
+
+O texto aborda o conceito de gerenciamento de código, como ele funciona, porquê fazer e as quatro principais formas de aplicar um bom gerenciamento de código-fonte.
+Uma novidade para mim que está presente nesse artigo é o conceito de labels. Nunca tinha utilizado ou escutado sobre esse conceito, mas agora irei implementá-lo em meus trabalhos.
+O conceito de branches já era conhecido por mim, bem como manter o código limpo, claro e autoexplicativo
+
+O artigo aborda sobre como melhorar o gerenciamento de código fonte para que ao ocorrer melhorias no software não haja comprometimento do funcionamento geral das aplicações. O gereciamento de código-fonte são um conjunto de métodos usados para garantir legibilidade, fácil identificação de falhas, entre outros. Usando um software para controle de revisões, conflitos podem ser resolvidos com rapidez, backups podem ser criados, desenvolver e aplicar novos recursos fica mais fácil e rápido, etc. O texto também dá ênfase em como aplicar um bom gerenciamento, alguns exemplos são: manter os códigos limpos, usar branches e labels, automaizar as operações, registrar e compartilhar bibliotecas em  desenvolvimento.
