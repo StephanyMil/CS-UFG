@@ -1,6 +1,6 @@
 # Texto sobre "Como melhorar o gerenciamento de código fonte?"
 
-O texto aborda o conceito de gerenciamento de código, como ele funciona, porquê fazer e as quatro principais formas de aplicar um bom gerenciamento de código-fonte.
+O texto aborda o conceito de gerenciamento de código, como ele funciona, por que fazer e as quatro principais formas de aplicar um bom gerenciamento de código-fonte.
 Uma novidade para mim que está presente nesse artigo é o conceito de labels. Nunca tinha utilizado ou escutado sobre esse conceito, mas agora irei implementá-lo em meus trabalhos.
 O conceito de branches já era conhecido por mim, bem como manter o código limpo, claro e autoexplicativo
 
